@@ -1,6 +1,6 @@
 # Linear-Block-Code
-# NAME: KRITHI V
-# REG NUM: 212224060128
+# NAME: ROHITH KUMAR GD
+# REG NUM: 212224060220
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
